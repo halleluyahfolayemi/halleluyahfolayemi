@@ -3,9 +3,9 @@
 I'm a **pharmacist in training** passionate about bridging the gap between **machine learning** and the **healthcare sector**. I love exploring how technology can revolutionize the way we approach medicine, patient care, and research.
 
 ##  About Me
-- 🎓 Pharmacist in training
-- 🤖 Interested in applying **machine learning** to real-world healthcare problems
-- 🐍 Mainly code in **Python**
+-  Pharmacist in training
+-  Interested in applying **machine learning** to real-world healthcare problems
+-  Mainly code in **Python**
 
 ##  Current Focus
 - Learning more about artificial intelligence in healthcare
