@@ -1,6 +1,6 @@
 #  Hi there, I'm Halleluyah Folayemi!
 
-I'm a **pharmacist in training** passionate about bridging the gap between **machine learning** and the **healthcare sector**. I love exploring how technology can revolutionize the way we approach medicine, patient care, and research.
+I'm a **pharmacist in training** passionate about bridging the gap between **machine learning** and the **healthcare sector**. I love exploring how technology can revolutionize the way we approach medicine, patient care. I am a also a data analyst.
 
 ##  About Me
 -  Pharmacist in training
