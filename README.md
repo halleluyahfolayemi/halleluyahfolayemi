@@ -2,11 +2,11 @@
 
 I guess you can't wait to know.
 
-I am a **pharmacist in training** passionate about bridging the gap between **machine learning** and the **healthcare sector**. I love exploring how technology can revolutionize the way we approach medicine, patient care. I am a also a data analyst that loves to turn data into actionable insights, detecting trends and patterns.
+I am a **pharmacist in training** passionate about bridging the gap between **artificial** and the **healthcare sector**. I love exploring how technology can revolutionize the way we approach medicine, patient care. I am a also a data analyst that loves to turn data into actionable insights, detecting trends and patterns.
 
 ##  About Me
--  Aspiring Neuriopharmacologist
--  Interested in applying **machine learning** to real-world healthcare problems
+-  Aspiring Neuropharmacologist
+-  Interested in applying **cutting-edge tools** to real-world healthcare problems
 -  Mainly code in **Python**, proficient in Excel, PowerBI and SQL
 
 ##  Current Focus
