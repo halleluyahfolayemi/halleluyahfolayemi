@@ -7,7 +7,8 @@ I am a **pharmacist in training** passionate about bridging the gap between **ar
 ##  About Me
 -  Aspiring Neuropharmacologist
 -  Interested in applying **cutting-edge tools** to real-world healthcare problems
--  Mainly code in **Python**, proficient in Excel, PowerBI and SQL
+-  Proficient in Excel, PowerBI and SQL.
+-  Mainly code in **Python**
 
 ##  Current Focus
 - Learning more about artificial intelligence in healthcare
